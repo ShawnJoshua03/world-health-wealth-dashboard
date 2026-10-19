@@ -1,4 +1,7 @@
 World of Data: Health and Wealth
+
+**[Live site](https://world-health-wealth-dashboard.vercel.app)** · **[Portfolio](https://shawnjoshua03.github.io/)**
+
 Motivation and Theme
 
 For this project, I wanted to explore the relationship between economic prosperity and public health outcomes across countries. Instead of looking at static graphs, I built an interactive dashboard that allows users to actively explore how GDP per person relates to life expectancy and under five mortality rate.
