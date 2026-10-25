@@ -1,6 +1,25 @@
-World of Data: Health and Wealth
+<div align="center">
 
-**[Live site](https://world-health-wealth-dashboard.vercel.app)** · **[Portfolio](https://shawnjoshua03.github.io/)**
+# World of Data: Health and Wealth
+
+An interactive D3 dashboard exploring how GDP per person relates to life expectancy and under five mortality across countries.
+
+[![D3.js](https://img.shields.io/badge/D3.js-v7-F9A03C?logo=d3dotjs&logoColor=white)](https://d3js.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
+[![Live demo](https://img.shields.io/badge/Live%20demo-Vercel-000000?logo=vercel&logoColor=white)](https://world-health-wealth-dashboard.vercel.app)
+[![Write-up](https://img.shields.io/badge/Write--up-Read%20the%20story-blue)](https://shawnjoshua03.github.io/stories/world-health-wealth/)
+
+<a href="https://world-health-wealth-dashboard.vercel.app">
+  <img src="https://shawnjoshua03.github.io/images/world-health-wealth.jpg" alt="Screenshot of the World of Data: Health and Wealth dashboard" width="800">
+</a>
+
+[Live site](https://world-health-wealth-dashboard.vercel.app) · [Write-up](https://shawnjoshua03.github.io/stories/world-health-wealth/) · [Portfolio](https://shawnjoshua03.github.io/)
+
+</div>
+
+---
 
 Motivation and Theme
 
